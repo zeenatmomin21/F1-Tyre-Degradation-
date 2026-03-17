@@ -5,7 +5,7 @@
 ## 🚀 Live Animation
 
 <p align="center">
-  <img src="./ferrari.gif" width="600"/>
+  <img src="ferrari.gif" width="600"/>
 </p>
 
 <p align="center">
