@@ -5,60 +5,91 @@
 ## 🚀 Live Animation
 
 <p align="center">
-  <img src="ferrari.gif" width="500"/>
+  <img src="ferrari.gif" width="600"/>
+</p>
+
+<p align="center">
+  🏁 <b>Race Simulation in Motion</b> 🏁
 </p>
 
 ---
 
 ## 📌 Overview
 
-This project focuses on predicting tyre degradation in Formula 1 using Machine Learning techniques.  
+This project focuses on predicting tyre degradation in Formula 1 using Machine Learning techniques.
 It helps analyze tyre wear over laps and improves race strategy decisions.
 
 ---
 
 ## ✨ Features
 
-- 📊 Data preprocessing and loading  
-- 🤖 ML-based prediction model  
-- 📉 Tyre wear analysis  
-- 🏁 Race strategy insights  
+* 📊 Data preprocessing and loading
+* 🤖 ML-based prediction model
+* 📈 Tyre degradation analysis
+* 🏎️ Real-world F1 data integration
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python  
-- NumPy, Pandas  
-- Scikit-learn / ML models  
+* Python
+* Pandas
+* NumPy
+* FastF1 API
 
 ---
 
 ## 📂 Project Structure
 
-- `data_load.py` → Data loading and preprocessing  
-- `Cache_dir` → Stored intermediate files  
-- `README.md` → Project documentation  
+```
+F1-Tyre-Degradation/
+│── data_load.py
+│── ferrari.gif
+│── README.md
+│── Cache_dir/
+```
 
 ---
 
-## 📊 Model Output
+## ▶️ How to Run
 
-<p align="center">
-  <img src="demo.gif" width="600"/>
-</p>
+1. Clone the repository:
+
+```
+git clone https://github.com/zeenatmomin21/F1-Tyre-Degradation-.git
+```
+
+2. Navigate to the project folder:
+
+```
+cd F1-Tyre-Degradation-
+```
+
+3. Run the script:
+
+```
+python data_load.py
+```
 
 ---
 
-## 📈 Future Improvements
+## 📊 Future Improvements
 
-- 🚀 Add deep learning models  
-- 📊 Improve prediction accuracy  
-- 🏎️ Real-time race simulation  
+* 🔍 Improve model accuracy
+* 📉 Add evaluation metrics
+* 🧠 Implement advanced ML models
+* 🌐 Build a web dashboard
 
 ---
 
-## 👩‍💻 Author
+## 🤝 Contributing
 
-Zeenat Momin  
-AIML Student | Passionate about AI & Formula 1 🏁
+Feel free to fork this repository and contribute!
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
