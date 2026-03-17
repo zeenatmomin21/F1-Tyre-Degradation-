@@ -1,5 +1,9 @@
 
 F1 Tyre Degradation Prediction
+# 🏎️ F1 Tyre Degradation
+
+## 🚀 Live Animation
+![Ferrari](ferrari.gif)
 
 Overview
 This project focuses on predicting tyre degradation in Formula 1 using Machine Learning techniques. It helps analyze tyre wear over laps and improves race strategy decisions.
